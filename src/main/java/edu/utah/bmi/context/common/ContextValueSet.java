@@ -2,7 +2,7 @@ package edu.utah.bmi.context.common;
 
 /**
  * Classic ConText Assertions and Determinants.
- * Dynamic generated values can be implemented through external classes.
+ * Dynamic generated values can be implemented through external classes-DynamEnumOper.
  * <p/>
  * Drafted by Jianlin Shi on 6/24/15.
  */
