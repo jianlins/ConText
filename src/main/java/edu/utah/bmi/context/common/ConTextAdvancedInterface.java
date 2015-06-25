@@ -7,7 +7,7 @@ import java.util.LinkedHashMap;
 
 /**
  * This is an extended ConText interface class, which defines two additional interface methods that reserve the evidence Span information for Assertions.
- * This interface is optional, as for most of use cases, storing evidence information is not necessory.
+ * This interface is optional. Because for most of use cases, storing evidence information is not necessary.
  * <p/>
  * Drafted by Jianlin Shi on 6/24/15.
  */

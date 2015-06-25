@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  * This is a ConText interface class, which defines the common methods that applicable for child classes.
- * So that all child classes can be plugged into same code with minimum modification.
+ * In this way, all child classes can be plugged into same code with minimum modification.
  * <p/>
  * Drafted by Jianlin Shi on 6/24/15.
  */
